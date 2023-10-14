@@ -2,7 +2,22 @@
 
 https://github.com/Johnsonarul123/assignmentanalyst.ai/assets/28231361/f62b0f19-a380-4ef2-90a3-e641d8ebe36d
 
+## Assignment Description
 
+This repository contains my assignment for [Analyst.ai]. The assignment involves Frontend ,Backend and optional feature .
+
+## Video Explanation
+
+I have created a video explaining my assignment. You can watch it above.
+
+## Project Setup
+
+Follow these steps to set up and run the project:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YourUsername/YourRepository.git
 
 # Getting Started with Create React App
 
